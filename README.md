@@ -37,7 +37,6 @@ Explore them in the **Projects** tab of the website or visit the `projects/` fol
 ## 🎓 Education
 
 - **B.Tech (AI & Data Science)** | Shiv Nadar University, Chennai (2023–2027)
-  GPA: **8.78**
   Relevant coursework: Machine Learning, NLP, Computer Vision, Data Mining, Big Data Analytics
 
 ---
@@ -62,7 +61,6 @@ Explore them in the **Projects** tab of the website or visit the `projects/` fol
 ## ✉️ Get in Touch
 
 - 📧: [hariesh28606@gmail.com](mailto:hariesh28606@gmail.com)
-- 📞: +91 78250 33030
 - 🔗: [LinkedIn](https://linkedin.com/in/hariesh-r-1104312b3) | [GitHub](https://github.com/Hariesh28)
 
 ---
