@@ -53,7 +53,7 @@ const About: React.FC = () => {
               <div className="prose prose-lg text-gray-600 dark:text-gray-300">
                 <p>
                   As a B.Tech AI & Data Science student at Shiv Nadar University (2023–2027) with a strong
-                  GPA of 8.93, I've dedicated myself to mastering the art and science of data-driven
+                  GPA of 8.78, I've dedicated myself to mastering the art and science of data-driven
                   decision making.
                 </p>
 
@@ -79,7 +79,7 @@ const About: React.FC = () => {
                   <div className="text-sm text-gray-600 dark:text-gray-300">Projects Completed</div>
                 </div>
                 <div className="text-center p-4 bg-green-50 dark:bg-green-900/20 rounded-lg">
-                  <div className="text-3xl font-bold text-green-600 dark:text-green-400">8.93</div>
+                  <div className="text-3xl font-bold text-green-600 dark:text-green-400">8.78</div>
                   <div className="text-sm text-gray-600 dark:text-gray-300">Academic GPA</div>
                 </div>
               </div>

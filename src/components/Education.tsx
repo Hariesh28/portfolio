@@ -10,7 +10,7 @@ const Education: React.FC = () => {
     degree: "B.Tech in Artificial Intelligence & Data Science",
     period: "2023 – 2027",
     location: "Chennai, India",
-    gpa: "8.93",
+    gpa: "8.78",
     status: "Currently Pursuing",
     coursework: [
       "Machine Learning",
