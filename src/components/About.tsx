@@ -49,25 +49,25 @@ const About: React.FC = () => {
               <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">
                 My Journey in Data Science
               </h3>
-              
+
               <div className="prose prose-lg text-gray-600 dark:text-gray-300">
                 <p>
-                  As a B.Tech AI & Data Science student at Shiv Nadar University (2023–2027) with a strong 
-                  GPA of 8.93, I've dedicated myself to mastering the art and science of data-driven 
+                  As a B.Tech AI & Data Science student at Shiv Nadar University (2023–2027) with a strong
+                  GPA of 8.93, I've dedicated myself to mastering the art and science of data-driven
                   decision making.
                 </p>
-                
+
                 <p>
-                  My professional journey began at Tech Mahindra, where I had the opportunity to work on 
-                  groundbreaking projects, including developing an AI model for automating chemical mixing 
-                  processes for a leading chemical manufacturer. This experience taught me the importance 
+                  My professional journey began at Tech Mahindra, where I had the opportunity to work on
+                  groundbreaking projects, including developing an AI model for automating chemical mixing
+                  processes for a leading chemical manufacturer. This experience taught me the importance
                   of bridging the gap between theoretical knowledge and practical implementation.
                 </p>
-                
+
                 <p>
-                  What drives me is the potential of AI and machine learning to solve real-world problems. 
-                  Whether it's optimizing industrial processes, building intelligent recommendation systems, 
-                  or creating tools that enhance user experiences, I'm passionate about leveraging technology 
+                  What drives me is the potential of AI and machine learning to solve real-world problems.
+                  Whether it's optimizing industrial processes, building intelligent recommendation systems,
+                  or creating tools that enhance user experiences, I'm passionate about leveraging technology
                   to make a meaningful impact.
                 </p>
               </div>
@@ -75,7 +75,7 @@ const About: React.FC = () => {
               {/* Stats */}
               <div className="grid grid-cols-2 gap-6 mt-8">
                 <div className="text-center p-4 bg-blue-50 dark:bg-blue-900/20 rounded-lg">
-                  <div className="text-3xl font-bold text-blue-600 dark:text-blue-400">15+</div>
+                  <div className="text-3xl font-bold text-blue-600 dark:text-blue-400">12+</div>
                   <div className="text-sm text-gray-600 dark:text-gray-300">Projects Completed</div>
                 </div>
                 <div className="text-center p-4 bg-green-50 dark:bg-green-900/20 rounded-lg">

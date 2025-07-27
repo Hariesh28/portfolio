@@ -11,14 +11,14 @@ const Experience: React.FC = () => {
       company: 'Tech Mahindra',
       location: 'Chennai, India',
       period: 'Jun 2025 – Present',
-      type: 'Full-time',
+      type: 'Hybrid',
       achievements: [
-        'Prototyped an AI model for automating chemical mixing in partnership with a leading chemical company—showcasing potential to replace manual batching',
-        'Developed data processing code and Jupyter notebooks to ingest sensor data, train regression models, and visualize process optimizations',
-        'Provided L2 support and rapid debugging for a Spark/Airflow analytics platform used by 2,000+ users, ensuring 99% SLA adherence',
+        'Prototyped an AI model using Graph Neural Networks and Knowledge Graphs to automate chemical mixing for a leading chemical company, demonstrating potential to replace manual batching',
+        'Developed custom data processing pipelines in Python and Jupyter to ingest sensor data, train models, and visualize process optimizations',
+        'Contributed to a proof-of-concept analytics dashboard by handling backend debugging and resolving integration issues, ensuring consistent data flow and system responsiveness',
         'Automated data-integrity checks in Python, reducing manual audits by 40%, and documented playbooks to onboard new team members'
       ],
-      technologies: ['Python', 'Apache Spark', 'Apache Airflow', 'Jupyter', 'Machine Learning', 'Data Engineering']
+      technologies: ['Python', 'Data Engineering', 'Graph Neural Networks', 'Jupyter', 'Machine Learning', 'Data Engineering', 'Knowledge Graphs']
     }
   ];
 
@@ -130,7 +130,7 @@ const Experience: React.FC = () => {
                 Ready for New Challenges
               </h3>
               <p className="text-gray-600 dark:text-gray-300 mb-6 max-w-2xl">
-                I'm actively seeking opportunities to apply my data science expertise in challenging 
+                I'm actively seeking opportunities to apply my data science expertise in challenging
                 roles where I can drive innovation and create meaningful impact.
               </p>
               <button
