@@ -57,8 +57,7 @@ const Projects: React.FC = () => {
         "Docker",
         "APScheduler",
       ],
-      image:
-        "https://images.pexels.com/photos/1729931/pexels-photo-1729931.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "/images/Calender.png",
       github: "https://github.com/Hariesh28/Birthday-Reminder",
       demo: "https://birthday-reminder-qn9e.onrender.com/",
       date: "Mar 2025",
